@@ -2,5 +2,5 @@
 
 Slides for APS March Meeting 2016
 
-   * APS-2016 [PDF]() [KeyNote]()
-   * APS-Brazil-2016 [PDF]() [KeyNote]()
+   * APS March Meeting 2016: [PDF](https://github.com/guilleaf/PyChemia-Slides/raw/master/APS_2016.pdf) [KeyNote](https://github.com/guilleaf/PyChemia-Slides/raw/master/APS_2016.pdf)
+   * US-Brazil Young Physicists Forum 2016: [PDF](https://github.com/guilleaf/PyChemia-Slides/raw/master/APS_Brazil_2016.pdf) [KeyNote](https://github.com/guilleaf/PyChemia-Slides/raw/master/APS_Brazil_2016.key)
